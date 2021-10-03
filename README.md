@@ -31,6 +31,8 @@
 
 <br/>
 
+
+These stats don't mean much since I am working on private repositories all the time.
 <a href="https://github.com/dollarpryncHD">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dollarpryncHD&theme=buefy&show_icons=true" />
 </a>
