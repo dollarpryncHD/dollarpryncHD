@@ -40,7 +40,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.instagram.com/panettonemy/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/panettonemy/"><img alt="Instagram" src="https://img.shields.io/badge/IG-Instagram-red"></a>
 <a href="czesmokie@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 <a href="David HD#5798"><img alt="Discord" src="https://img.shields.io/badge/DISC-Discord-blue"></a>
 </p>
