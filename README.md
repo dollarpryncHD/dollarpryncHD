@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/PDXwwkn.png">
+<img src="https://i.imgur.com/pqNtZqB.png">
 
 <h2> Hey there! I'm David.</h2>
 
