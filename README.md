@@ -42,6 +42,9 @@ These stats don't mean much since I am working on private repositories all the t
 <p align="center">
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
+<img src="https://i.imgur.com/UC7PHMj.gif">
+
+
 <p align="center">
 <a href="https://www.instagram.com/panettonemy/"><img alt="Instagram" src="https://img.shields.io/badge/IG-Instagram-red"></a>
 <a href="czesmokie@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-czesmokie@gmail.com-blue?style=flat-square&logo=gmail"></a>
