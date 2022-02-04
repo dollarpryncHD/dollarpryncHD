@@ -1,5 +1,5 @@
 <p><a href="https://dollarprynchd.github.io/editlxrd/">
-<img src="https://i.imgur.com/pqNtZqB.png" alt="https://dollarprynchd.github.io/editlxrd/" width="100" height="132">
+<img src="https://i.imgur.com/pqNtZqB.png" alt="https://dollarprynchd.github.io/editlxrd/">
 </a></p>
 <h2> Hey there! I'm David.</h2>
 
