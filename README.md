@@ -22,15 +22,17 @@
 
 
 
-<p align="center">
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<img src="https://i.imgur.com/UC7PHMj.gif">
-
 
 <p align="center">
 <a href="https://www.instagram.com/panettonemy/"><img alt="Instagram" src="https://img.shields.io/badge/IG-Instagram-red"></a>
 <a href="czesmokie@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-czesmokie@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="David HD#5798"><img alt="Discord" src="https://img.shields.io/badge/DISC-Discord-blue"></a>
 </p>
+
+
+
+
+https://user-images.githubusercontent.com/66186593/160305073-2507ffd2-838b-4aa2-b9dd-28d705b05c5e.mp4
+
+
 
