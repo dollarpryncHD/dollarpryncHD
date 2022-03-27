@@ -26,7 +26,7 @@
 <p align="center">
 <a href="https://www.instagram.com/panettonemy/"><img alt="Instagram" src="https://img.shields.io/badge/IG-Instagram-red"></a>
 <a href="czesmokie@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-czesmokie@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="David HD#5798"><img alt="Discord" src="https://img.shields.io/badge/DISC-Discord-blue"></a>
+<a href="https://discord.gg/7bjFNznH4a"><img alt="Discord" src="https://img.shields.io/badge/DC-Discord-blue"></a>
 </p>
 
 
