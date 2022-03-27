@@ -1,11 +1,10 @@
 <p><a href="https://dollarprynchd.github.io/editlxrd/">
-<img src="https://i.imgur.com/pqNtZqB.png" alt="https://dollarprynchd.github.io/editlxrd/">
 </a></p>
-<h2> Hey there! I'm David.</h2>
+<h2>🕶️</h2>
 
 <h3>💻 &nbsp;About Me </h3>
 
-- 🩸 &nbsp; eighteen and being slatt!
+- 🩸 &nbsp; eighteen and being slatt! 
 
 <h3>&nbsp;capabilities?</h3>
 
@@ -25,7 +24,6 @@
 
 <p align="center">
 <a href="https://www.instagram.com/panettonemy/"><img alt="Instagram" src="https://img.shields.io/badge/IG-Instagram-red"></a>
-<a href="czesmokie@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-czesmokie@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://discord.gg/7bjFNznH4a"><img alt="Discord" src="https://img.shields.io/badge/DC-Discord-blue"></a>
 </p>
 
