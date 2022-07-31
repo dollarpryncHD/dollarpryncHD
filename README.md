@@ -3,7 +3,8 @@
 <h2>🕶️</h2>
 
 
-<img src="https://cdn.discordapp.com/attachments/880831665197432879/1003410896837677147/NEWLOGOTYPEBEAT512.png" href="https://nymrp.cc">
+<img src="https://cdn.discordapp.com/attachments/880831665197432879/1003410896837677147/NEWLOGOTYPEBEAT512.png"  width="128" 
+     height="128" href="https://nymrp.cc">
 <h3>💻 &nbsp;About Me </h3>
 
 - 🩸 &nbsp; eighteen and being slatt! 
