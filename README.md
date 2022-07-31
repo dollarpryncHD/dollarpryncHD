@@ -1,6 +1,6 @@
 <p><a href="https://dollarprynchd.github.io/editlxrd/">
 </a></p>
-<h2>🕶️</h2>
+<h2>🕶️ https://nymrp.cc</h2>
 
 <h3>💻 &nbsp;About Me </h3>
 
