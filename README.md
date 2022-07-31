@@ -1,7 +1,9 @@
 <p><a href="https://dollarprynchd.github.io/editlxrd/">
 </a></p>
-<h2>🕶️ https://nymrp.cc</h2>
+<h2>🕶️</h2>
 
+
+<img src="https://cdn.discordapp.com/attachments/880831665197432879/1003410896837677147/NEWLOGOTYPEBEAT512.png" href="https://nymrp.cc">
 <h3>💻 &nbsp;About Me </h3>
 
 - 🩸 &nbsp; eighteen and being slatt! 
