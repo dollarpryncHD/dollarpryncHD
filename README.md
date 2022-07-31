@@ -31,6 +31,10 @@
 <a href="https://discord.gg/7bjFNznH4a"><img alt="Discord" src="https://img.shields.io/badge/DC-Discord-blue"></a>
 </p>
 
+<p align="center">
+https://nymrp.cc
+</p>
+
 
 
 
