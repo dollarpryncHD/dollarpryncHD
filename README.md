@@ -34,7 +34,10 @@
 
 
 
-https://cdn.discordapp.com/attachments/883432565208387605/1003404700894371890/sturdyness.mp4
+
+
+https://user-images.githubusercontent.com/66186593/182046976-f3d9ff3a-3727-4a12-a978-e012b37df0d6.mp4
+
 
 
 
