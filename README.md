@@ -8,7 +8,7 @@
      
 <h3>💻 &nbsp;About Me </h3>
 
-- 🩸 &nbsp; eighteen and being slatt! 
+- 🩸 &nbsp; 20 & top tier UI designer! 
 
 <h3>&nbsp;capabilities?</h3>
 
