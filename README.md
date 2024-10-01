@@ -3,7 +3,7 @@
 <h2>🕶️</h2>
 
 
-<img href="https://nymrp.cc" src="https://cdn.discordapp.com/attachments/880831665197432879/1003410896837677147/NEWLOGOTYPEBEAT512.png"  width="64" 
+<img href="https://nymrp.cc" src="https://cdn.discordapp.com/attachments/1258177942744334416/1258566995071336588/DEADYEN-transparent.png?ex=66fd301a&is=66fbde9a&hm=b9e8a724e40f407e5d07b925df7be74b8433d20cd40043da6a3852264011c37d&"  width="64" 
      height="64">
      
 <h3>💻 &nbsp;About Me </h3>
