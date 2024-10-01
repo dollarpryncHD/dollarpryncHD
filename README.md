@@ -11,17 +11,7 @@
 - 🩸 &nbsp; 20 & top tier UI designer! 
 
 <h3>&nbsp;capabilities?</h3>
-
-- 💻 &nbsp;
-  ![LUA](https://img.shields.io/badge/LUA-LUA-brightgreen)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+fuck hoes and sniff coke?
 
 
 
